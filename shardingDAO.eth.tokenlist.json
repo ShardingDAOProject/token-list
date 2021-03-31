@@ -1,113 +1,113 @@
 {
-  "name": "ShardingDAO Swap Menu",
-  "logoURI": "https://raw.githubusercontent.com/ShardingDAOProject/token-list/master/assets/ShardingDAO.png",
-  "keywords": [
-    "ShardingDAO",
-    "sharding",
-    "swap"
-  ],
-  "timestamp": "2021-03-31T00:00:00+00:00",
-  "tokens": [
-    {
-      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-      "chainId": 1,
-      "name": "WrappedEther",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
-    },
-    {
-      "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
-      "chainId": 1,
-      "name": "Wrapped BTC",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png"
-    },
-    {
-      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-      "chainId": 1,
-      "name": "TetherUSD",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
-    },
-    {
-      "address": "0xc4de189abf94c57f396bd4c52ab13b954febefd8",
-      "chainId": 1,
-      "name": "B.20",
-      "symbol": "B20",
-      "decimals": 18,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8457.png"
-    },
-    {
-      "address": "0xd5525d397898e5502075ea5e830d8914f6f0affe",
-      "chainId": 1,
-      "name": "MEME",
-      "symbol": "MEME",
-      "decimals": 8,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6597.png"
-    },
-    {
-      "address": "0xb6ca7399b4f9ca56fc27cbff44f4d2e4eef1fc81",
-      "chainId": 1,
-      "name": "Muse",
-      "symbol": "MUSE",
-      "decimals": 18,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7805.png"
-    },
-    {
-      "address": "0xfca59cd816ab1ead66534d82bc21e7515ce441cf",
-      "chainId": 1,
-      "name": "Rarible",
-      "symbol": "RARI",
-      "decimals": 18,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5877.png"
-    },
-    {
-      "address": "0x9355372396e3F6daF13359B7b607a3374cc638e0",
-      "chainId": 1,
-      "name": "WHALE",
-      "symbol": "WHALE",
-      "decimals": 4,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6679.png"
-    },
-    {
-      "address": "0x87d73E916D7057945c9BcD8cdd94e42A6F47f776",
-      "chainId": 1,
-      "name": "NFTX",
-      "symbol": "NFTX",
-      "decimals": 4,
-      "logoURI": "https://etherscan.io/token/images/nftx_32.png"
-    },
-    {
-      "address": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
-      "chainId": 1,
-      "name": "Decentraland MANA",
-      "symbol": "MANA",
-      "decimals": 18,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1966.png"
-    },
-    {
-      "address": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
-      "chainId": 1,
-      "name": "SAND",
-      "symbol": "SAND",
-      "decimals": 18,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6210.png"
-    },
-    {
-      "address": "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
-      "chainId": 1,
-      "name": "Enjin Coin",
-      "symbol": "ENJ",
-      "decimals": 18,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2130.png"
+    "name": "ShardingDAO Swap Menu",
+    "logoURI": "https://raw.githubusercontent.com/ShardingDAOProject/token-list/master/assets/ShardingDAO.png",
+    "keywords": [
+        "ShardingDAO",
+        "sharding",
+        "swap"
+    ],
+    "timestamp": "2021-03-31T00:00:00+00:00",
+    "tokens": [
+        {
+            "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+            "chainId": 1,
+            "name": "WrappedEther",
+            "symbol": "WETH",
+            "decimals": 18,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
+        },
+        {
+            "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+            "chainId": 1,
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "decimals": 8,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png"
+        },
+        {
+            "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+            "chainId": 1,
+            "name": "TetherUSD",
+            "symbol": "USDT",
+            "decimals": 6,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+        },
+        {
+            "address": "0xc4de189abf94c57f396bd4c52ab13b954febefd8",
+            "chainId": 1,
+            "name": "B.20",
+            "symbol": "B20",
+            "decimals": 18,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8457.png"
+        },
+        {
+            "address": "0xd5525d397898e5502075ea5e830d8914f6f0affe",
+            "chainId": 1,
+            "name": "MEME",
+            "symbol": "MEME",
+            "decimals": 8,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6597.png"
+        },
+        {
+            "address": "0xb6ca7399b4f9ca56fc27cbff44f4d2e4eef1fc81",
+            "chainId": 1,
+            "name": "Muse",
+            "symbol": "MUSE",
+            "decimals": 18,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7805.png"
+        },
+        {
+            "address": "0xfca59cd816ab1ead66534d82bc21e7515ce441cf",
+            "chainId": 1,
+            "name": "Rarible",
+            "symbol": "RARI",
+            "decimals": 18,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5877.png"
+        },
+        {
+            "address": "0x9355372396e3F6daF13359B7b607a3374cc638e0",
+            "chainId": 1,
+            "name": "WHALE",
+            "symbol": "WHALE",
+            "decimals": 4,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6679.png"
+        },
+        {
+            "address": "0x87d73E916D7057945c9BcD8cdd94e42A6F47f776",
+            "chainId": 1,
+            "name": "NFTX",
+            "symbol": "NFTX",
+            "decimals": 4,
+            "logoURI": "https://etherscan.io/token/images/nftx_32.png"
+        },
+        {
+            "address": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
+            "chainId": 1,
+            "name": "Decentraland MANA",
+            "symbol": "MANA",
+            "decimals": 18,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1966.png"
+        },
+        {
+            "address": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
+            "chainId": 1,
+            "name": "SAND",
+            "symbol": "SAND",
+            "decimals": 18,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6210.png"
+        },
+        {
+            "address": "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
+            "chainId": 1,
+            "name": "Enjin Coin",
+            "symbol": "ENJ",
+            "decimals": 18,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2130.png"
+        }
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
     }
-  ],
-  "version": {
-    "major": 1,
-    "minor": 0,
-    "patch": 0
-  }
 }
